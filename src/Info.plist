@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>	<string>org.nanoapps.lines</string>
+	<key>CFBundleName</key>		<string>Lines</string>
+	<key>CFBundleExecutable</key>	<string>lines</string>
+	<key>HBAppKind</key>			<integer>1</integer>
+	<key>HBIconGlyph</key>		<string>gamepad</string>
+	<key>HBIconColor</key>		<string>#ff7a45</string>
+</dict>
+</plist>

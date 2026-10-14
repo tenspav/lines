@@ -1,0 +1,8 @@
+build/
+*.o
+*.img
+*.gba
+*.hbapp
+*.elf
+GBA/
+*.sav
